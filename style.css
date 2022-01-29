@@ -15,9 +15,29 @@ body{
 header{
     color: var(--fontcolor);
 }
+main{
+    height: 62vh;
+}
 footer h4{
     color: var(--fontsecondcolor);
 }
 footer h1{
     color: var(--fontcolor);
+}
+
+
+@media  screen and (max-width:760px) {
+
+    main{
+        height: 50vh;
+    }
+    footer h4{
+        color: var(--fontsecondcolor);
+        font-size: 1em;
+    }
+    footer h1{
+        color: var(--fontcolor);
+        font-size: 1.2em;
+    }
+    
 }
