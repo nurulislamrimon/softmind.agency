@@ -1,3 +1,41 @@
-body{
-    padding: 3em;
+
+.construction-image{
+     height: 98vh;
+}
+.color-olive{
+    color: #66AB6D;
+}
+.color-royal{
+    color: #5F00A9;
+    font-weight: 700;
+}
+.color-white-blue{
+    color: #40A8C4;
+    font-weight: 700;
+}
+.fab, .fas{
+    font-size: 20px;
+    padding: 10px;
+    border: solid rgb(236, 240, 243) 1px;
+}
+.fa-facebook-f{
+    padding: 10px 15px ;
+}
+.fa-twitter{
+    color: #1C99E7;
+}
+.fa-basketball-ball{
+    color: #E74D89;
+}
+.fa-youtube{
+    color: red;
+}
+
+@media screen and (max-width:760px){
+    *{
+        text-align: center;
+    }
+    .construction-image{
+    height: 20vh;
+    }
 }
