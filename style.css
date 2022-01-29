@@ -27,9 +27,12 @@ footer h1{
 
 
 @media  screen and (max-width:760px) {
-
+    header{
+        text-align: center;
+    }
     main{
-        height: 50vh;
+        height: 47vh;
+        margin-top: 5vh;
     }
     footer h4{
         color: var(--fontsecondcolor);
