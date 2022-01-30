@@ -40,11 +40,8 @@
     .construction-image{
     height: 35vh;
     }
-    .article-section{
-        height: 35vh;
-    }
     footer{
-        bottom: 0;
+        bottom: 0vh;
         width: 100%;
     }
 }
