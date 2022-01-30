@@ -1,6 +1,9 @@
 body{
     height: 100vh;
 }
+.main-container{
+    height: 95%;
+}
 .construction-image{
      height: 70vh;
 }
@@ -43,7 +46,7 @@ body{
     height: 35vh;
     }
     footer{
-        top: 95;
+        bottom: 0;
         width: inherit;
     }
 }
