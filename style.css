@@ -46,6 +46,6 @@ body{
     height: 35vh;
     }
     footer{
-        bottom: 0;
+        bottom: 10px;
     }
 }
