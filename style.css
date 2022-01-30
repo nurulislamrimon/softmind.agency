@@ -1,6 +1,6 @@
 
 .construction-image{
-     height: 98vh;
+     height: 70vh;
 }
 .color-olive{
     color: #66AB6D;
@@ -17,6 +17,7 @@
     font-size: 20px;
     padding: 10px;
     border: solid rgb(236, 240, 243) 1px;
+    border-radius: 10px;
 }
 .fa-facebook-f{
     padding: 10px 15px ;
@@ -34,8 +35,9 @@
 @media screen and (max-width:760px){
     *{
         text-align: center;
+        font-size: .9em;
     }
     .construction-image{
-    height: 20vh;
+    height: 35vh;
     }
 }
