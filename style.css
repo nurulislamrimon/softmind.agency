@@ -1,4 +1,6 @@
-
+body{
+    height: 100vh;
+}
 .construction-image{
      height: 70vh;
 }
@@ -41,7 +43,7 @@
     height: 35vh;
     }
     footer{
-        bottom: 0vh;
-        width: 100%;
+        top: 95;
+        width: inherit;
     }
 }
